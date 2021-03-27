@@ -46,9 +46,11 @@
             "icon": "//akmwebstatic.yuanzhanapp.com/web/mlweb/image/res/miya/skill/af837241f121c21b8894d834451c3e35.png"
           },
           "battle_first": {
-            "icon": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVo8_jiANajiAABGzgG8Few7326708"
+            "icon": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVo8_haATKt0AABH0pUQqEg1474122"
           },
-          "battle_second": null,
+          "battle_second": {
+            "icon": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVo8_gGAbqwjAABWbram5k00272230"
+          },
           "tips": ""
         }
       },
